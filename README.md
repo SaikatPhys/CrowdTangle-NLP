@@ -21,7 +21,7 @@ Sentiment and hate content analysis of CrowdTangle datasets
 
 > Outputs -> Inline plots and stats.
 
-- Step 4. Evaluate the performance of the multilingual sentiment and hate speech prediction models on human annotated dataset
+- Step 4. Evaluate the performance of the hate speech prediction model on human annotated dataset
 
 -- Step 4.1. [Randomly sample representative dataset(s) for human annotations](https://github.com/SaikatPhys/CrowdTangle-NLP/blob/main/preparation-of-annotation-dataset.ipynb)
 
