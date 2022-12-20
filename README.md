@@ -25,4 +25,4 @@ Sentiment and hate content analysis of CrowdTangle datasets
 
 -- Step 4.1. [Randomly sample representative dataset(s) for human annotations](https://github.com/SaikatPhys/CrowdTangle-NLP/blob/main/preparation-of-annotation-dataset.ipynb)
 
--- Step 4.2. Cross-validate the annotated labels with model predictions.
+-- Step 4.2. [Cross-validate the annotated labels with model predictions](https://github.com/SaikatPhys/CrowdTangle-NLP/blob/main/validation-of-annotated-labels.ipynb)
