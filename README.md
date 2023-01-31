@@ -15,7 +15,7 @@ Sentiment and hate content analysis of CrowdTangle datasets
 
 > Output dataframe -> Input dataframe + appended hate speech scores predicted by the model
 
-- Step 3. [Make plots/visualisations and cumpute overall statistics](https://github.com/SaikatPhys/CrowdTangle-NLP/blob/main/CrowdTangle-sentiment-hatespeech-plots.ipynb)
+- Step 3. [Make plots/visualisations and compute overall statistics](https://github.com/SaikatPhys/CrowdTangle-NLP/blob/main/CrowdTangle-sentiment-hatespeech-plots.ipynb)
 
 > Input data -> Output dataframe from Step 2
 
@@ -25,4 +25,4 @@ Sentiment and hate content analysis of CrowdTangle datasets
 
 -- Step 4.1. [Randomly sample representative dataset(s) for human annotations](https://github.com/SaikatPhys/CrowdTangle-NLP/blob/main/preparation-of-annotation-dataset.ipynb)
 
--- Step 4.2. Cross-validate the annotated labels with model predictions.
+-- Step 4.2. [Cross-validate the annotated labels with model predictions](https://github.com/SaikatPhys/CrowdTangle-NLP/blob/main/validation-of-annotated-labels.ipynb)
